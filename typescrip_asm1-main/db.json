@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "tamld1",
+      "price": "112",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "tamld1",
+      "price": "3",
+      "id": 4,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "sodienthoai",
+      "price": "5",
+      "id": 5,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "tamld1",
+      "price": "3",
+      "image": "https://picsum.photos/200/300",
+      "id": 6
+    }
+  ]
+}
